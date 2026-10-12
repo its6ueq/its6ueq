@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+  <title id="title">Nguyen Duy Hai Bang — Game Designer and Developer</title>
+  <desc id="desc">Mobile puzzle games, level design and AI. Hanoi, Vietnam.</desc>
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 L 0 0 0 36" fill="none" stroke="#ffffff" stroke-opacity=".055"/></pattern>
+    <linearGradient id="bg" x2="1" y2=".7"><stop stop-color="#173443"/><stop offset="1" stop-color="#24594f"/></linearGradient>
+  </defs>
+  <rect width="1200" height="270" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="270" rx="20" fill="url(#grid)"/>
+  <rect x="50" y="49" width="5" height="169" rx="2.5" fill="#a5d9bd"/>
+  <text x="77" y="76" fill="#a5d9bd" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="3">DESIGN. BUILD. PLAY.</text>
+  <text x="74" y="137" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">Nguyen Duy Hai Bang</text>
+  <text x="77" y="179" fill="#e4f1ee" font-family="Arial, Helvetica, sans-serif" font-size="23">Game Designer &amp; Developer</text>
+  <text x="77" y="213" fill="#b5cdc8" font-family="Arial, Helvetica, sans-serif" font-size="17">Mobile puzzles · Level design · AI</text>
+  <g transform="translate(915 45)">
+    <rect width="178" height="178" rx="18" fill="#ffffff" fill-opacity=".08" stroke="#8ebdaf" stroke-opacity=".4"/>
+    <g fill="#f5eee0"><rect x="18" y="18" width="40" height="40" rx="8"/><rect x="69" y="18" width="40" height="40" rx="8"/><rect x="120" y="18" width="40" height="40" rx="8"/></g>
+    <rect x="18" y="69" width="91" height="40" rx="8" fill="#a5d9bd"/>
+    <path d="M41 89h43m-9-9 9 9-9 9" fill="none" stroke="#24594f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="120" y="69" width="40" height="91" rx="8" fill="#e5b57c"/>
+    <rect x="18" y="120" width="40" height="40" rx="8" fill="#8bbbc4"/>
+    <rect x="69" y="120" width="40" height="40" rx="8" fill="#ffffff" fill-opacity=".1" stroke="#a5d9bd" stroke-dasharray="4 4"/>
+  </g>
+</svg>
